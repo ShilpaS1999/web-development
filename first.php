@@ -8,6 +8,8 @@
 </head>
 <body>
 <a href="web.html" class="button">Home</a>
+<a href="web.html" class="button">Exit</a>
+
     <style>
         body{
             background-image:url(https://i.ytimg.com/vi/cQWcMuJiDMQ/maxresdefault.jpg);
